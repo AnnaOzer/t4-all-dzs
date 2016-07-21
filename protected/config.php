@@ -1,3 +1,9 @@
 <?php
 
-return [];
+return [
+    'description' => 'Моя личная страничка',
+    'extensions' => [
+        'bootstrap' => ['theme' => 'cosmo']
+    ]
+    
+];
